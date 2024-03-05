@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Tomato",
+        "location": {
+            "category": "vegetable",
+            "aisle": "A1"
+        },
+        "price": 3,
+        "amount": 25
+    },
+    {
+        "name": "Apple",
+        "location": {
+            "category": "fruit",
+            "aisle": "A2"
+        },
+        "price": 2,
+        "amount": 52
+    },
+    {
+        "name": "Banana",
+        "location": {
+            "category": "fruit",
+            "aisle": "A2"
+        },
+        "price": 1,
+        "amount": 44
+    },
+    {
+        "name": "Potato",
+        "location": {
+            "category": "vegetable",
+            "aisle": "A1"
+        },
+        "price": 1,
+        "amount": 73
+    },
+    {
+        "name": "Onion",
+        "location": {
+            "category": "vegetable",
+            "aisle": "A1"
+        },
+        "price": 2,
+        "amount": 31
+    }
+]
