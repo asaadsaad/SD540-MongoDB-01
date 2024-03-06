@@ -9,6 +9,8 @@ Create a new TypeScript project, and connect with a MongoDB instance using Mongo
 * Write a function to add a new product.
 * Write a function to delete a product by `_id`.
 * Write a function to update a product properties by `_id`.
+* Write a function to apply a discount of 10% across all fruits.
+* Write a function to increase the vegetables price 50 cents.
 * Write a function to find all products with a price between a range of minimum and maximum value.
 * Write a function to find all products in a specific category.
 * Write a function to find all products with an amount less than 10.
