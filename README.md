@@ -15,4 +15,3 @@ Create a new TypeScript project, and connect with a MongoDB instance using Mongo
 * Write a function to find all products in a specific category.
 * Write a function to find all products with an amount less than 10.
 * Add a simple pagination to the last find query.
-* All Mongoose Schemas are pluggable, they allow applying pre-packaged capabilities to extend their functionality. Plugins are a tool for reusing logic in multiple schemas. Install a [Mongoose paginate v2 plugin](https://www.npmjs.com/package/mongoose-paginate-v2) and replace your simple pagination with the one provided with the advanced plugin.
